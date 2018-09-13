@@ -5,3 +5,4 @@
 - [Byte of Python](https://python.swaroopch.com/)
 - Numpy, Pandas 範例程式 
 - Matplotlib 範例程式
+- (2013)[O'Reilly] 利用 Python 進行數據分析 (英文版：Python for Data Analysis)
