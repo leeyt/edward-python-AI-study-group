@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0" name="viewport"/>
+  <title>
+   旗標科技
+  </title>
+  <link href="http://www.flag.tw/assets/css/home/normalize.css" rel="stylesheet"/>
+  <link href="http://www.flag.tw/assets/css/home/style.css" rel="stylesheet"/>
+  <link href="http://www.flag.tw/assets/css/home/animate.css" rel="stylesheet"/>
+  <link href="http://www.flag.tw/assets/css/home/font-awesome.css" rel="stylesheet"/>
+  <link href="http://www.flag.tw/assets/css/home/bigvideo.css" rel="stylesheet"/>
+  <script src="http://www.flag.tw/assets/js/jquery-3.2.1.min.js" type="text/javascript">
+  </script>
+  <script src="http://www.flag.tw/assets/js/jquery-ui.min.js">
+  </script>
+  <script src="//vjs.zencdn.net/4.3/video.js">
+  </script>
+  <script src="http://www.flag.tw/assets/js/bigvideo.js">
+  </script>
+  <link href="http://www.flag.tw/assets/img/flag.png" rel="icon" sizes="32x32"/>
+ </head>
+ <body class="homepage">
+  <!-- Demo -->
+  <script>
+   $(function() {
+            var BV = new $.BigVideo();
+			BV.init();
+			BV.show('http://www.flag.tw/assets/video/home/homeback.mp4',{doLoop:true});
+	    });
+  </script>
+  <section class="homeheader">
+   <div class="home">
+    <div class="home-logo">
+     <img class="home-loc" src="http://www.flag.tw/assets/img/home/flag-logo-white-1.png"/>
+    </div>
+    <form action="http://www.flag.tw/books/book_searching" class="search" method="post" role="search">
+     <div class="form__field">
+      <input class="form__input" name="book_search" placeholder="輸入您想要的關鍵字" type="text"/>
+      <input class="button" type="submit" value="搜尋"/>
+     </div>
+    </form>
+   </div>
+   <div class="mainbtn">
+    <div class="sub-main">
+     <button class="button-three bluebtn" onclick="location.href='http://www.flag.tw/books'">
+      <p>
+       Books
+      </p>
+      <b>
+       圖書
+      </b>
+     </button>
+    </div>
+    <div class="sub-main">
+     <button class="button-three orangebtn" onclick="location.href='http://www.flag.tw/maker'">
+      <p>
+       Maker
+      </p>
+      <b>
+       創客
+      </b>
+     </button>
+    </div>
+    <div class="sub-main">
+     <button class="button-three pinkbtn" onclick="location.href='http://www.flag.tw/books/school'">
+      <p>
+       Textbooks
+      </p>
+      <b>
+       教科書
+      </b>
+     </button>
+    </div>
+    <div class="sub-main">
+     <button class="button-three purplebtn" onclick="location.href='http://www.flag.tw/itank'">
+      <p>
+       Teaching Tools
+      </p>
+      <b>
+       教具
+      </b>
+     </button>
+    </div>
+   </div>
+  </section>
+  <footer role="contentinfo">
+   <table class="clmtable">
+    <tr>
+     <td>
+      <a href="http://www.flag.tw/books/">
+       圖書總覽
+      </a>
+     </td>
+     <td>
+      <a href="mailto:service@flag.com.tw">
+       聯絡我們
+      </a>
+     </td>
+     <td>
+      <a href="mailto:marketing@flag.com.tw">
+       行銷合作
+      </a>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <a href="http://www.flag.tw/books/school">
+       教科書總覽
+      </a>
+     </td>
+     <td>
+      <a href="http://www.flag.com.tw/people/aboutflag.asp">
+       關於旗標
+      </a>
+     </td>
+     <td>
+      <a href="http://www.flag.com.tw/epaper/privacy.asp">
+       隱私權規約
+      </a>
+     </td>
+    </tr>
+   </table>
+   <div class="footer-bottom">
+    <p class="footer-left">
+     <strong>
+      旗標科技股份有限公司
+     </strong>
+    </p>
+    <p>
+     台北市中正區
+      杭州南路一段15-1號19樓
+    </p>
+    <p class="footer-right">
+     © Flag Technology CO.,LTD.
+      All rights reserved.
+    </p>
+   </div>
+  </footer>
+ </body>
+</html>

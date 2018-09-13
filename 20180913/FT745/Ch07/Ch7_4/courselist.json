@@ -1,0 +1,1113 @@
+[
+  {
+    "_id": "59ae5da5cd5792070055b973",
+    "assignment": "59ae5da5cd5792070055b974",
+    "averageRating": 0,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "59b7a2aecd5792070055eafe",
+      "url": "https://hahow.in/images/59b7a2aecd5792070055eafe"
+    },
+    "incubateTime": "2017-09-21T04:00:44.428Z",
+    "isReject": false,
+    "metaDescription": "這是一堂專注在資料庫技術的相關課程，課程從資料庫的基本介紹到資料庫設計的進階功能，包含 SQL 語法和企業系統的案例分析等，還有許多專業工程師所需要的知識和技巧，目的是要讓上完這堂課程的同學，能夠實際應用資料庫設計的技術在軟體系統的開發當中。",
+    "numRating": 0,
+    "numSoldTickets": 215,
+    "owner": {
+      "_id": "56ef73344e3ef90900b8061c",
+      "name": "Ryan",
+      "profileImageUrl": "https://hahow.in/images/58b782c05c4e6507007c9406",
+      "username": "ryantw"
+    },
+    "preOrderedPrice": 980,
+    "price": 1890,
+    "proposalDueTime": "2017-10-20T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "資料庫設計 - 有效的使用系統資料",
+    "totalVideoLengthInSeconds": 25188,
+    "type": "COURSE",
+    "uniquename": "database"
+  },
+  {
+    "_id": "5965e326ede9500700e66202",
+    "assignment": "5965e326ede9500700e66203",
+    "averageRating": 5,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "59b1048ccd5792070055cbe6",
+      "url": "https://hahow.in/images/59b1048ccd5792070055cbe6"
+    },
+    "incubateTime": "2017-09-08T04:00:20.528Z",
+    "isReject": false,
+    "metaDescription": "腦海中有很多有趣的想法，卻總被方形的 div 困住無法實踐嗎？這個課程將教大家利用 CSS 屬性將 div 變成不同的形狀，讓你也能畫出腦中的天馬行空！",
+    "numRating": 9,
+    "numSoldTickets": 179,
+    "owner": {
+      "_id": "595fab93ede9500700e61843",
+      "name": "Cat Sun",
+      "profileImageUrl": "https://hahow.in/images/599543544521fa0700e743a6",
+      "username": "5xruby"
+    },
+    "preOrderedPrice": 1500,
+    "price": 1800,
+    "proposalDueTime": "2017-10-07T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "用程式構築的繪畫世界 — CSS 繪圖",
+    "totalVideoLengthInSeconds": 20618,
+    "type": "COURSE",
+    "uniquename": "5xruby-css-artist"
+  },
+  {
+    "_id": "591d96d300f58c070078c4c6",
+    "assignment": "591d96d300f58c070078c4c7",
+    "averageRating": 5,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "597fe06cacc13707000712a0",
+      "url": "https://hahow.in/images/597fe06cacc13707000712a0"
+    },
+    "incubateTime": "2017-09-07T04:00:20.484Z",
+    "isReject": false,
+    "metaDescription": "深入淺出的教你 RWD 網頁的開發技巧，找不到適合的學習資源嗎？這堂課可以讓你了解\n RWD 入門的必備基礎！",
+    "numRating": 6,
+    "numSoldTickets": 190,
+    "owner": {
+      "_id": "565e6b1636328c10000aaba9",
+      "name": "Mike",
+      "profileImageUrl": "https://graph.facebook.com/1234039679946116/picture"
+    },
+    "preOrderedPrice": 1000,
+    "price": 2000,
+    "proposalDueTime": "2017-10-06T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "職人必修的 RWD 網頁入門班",
+    "totalVideoLengthInSeconds": 42179,
+    "type": "COURSE",
+    "uniquename": "responsive-design"
+  },
+  {
+    "_id": "597df7e2acc137070007013c",
+    "assignment": "597df7e2acc137070007013d",
+    "averageRating": 0,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "597dfde0acc13707000701a8",
+      "url": "https://hahow.in/images/597dfde0acc13707000701a8"
+    },
+    "incubateTime": "2017-08-25T04:07:47.961Z",
+    "isReject": false,
+    "metaDescription": "這是一門從零開始的資料科學課程！\n帶領初學者使用 Python 進行資料分析、機器學習、以及實際參與全世界最大資料科學競賽\n Kaggle 上的比賽，迅速成為性感的資料科學家！",
+    "numRating": 0,
+    "numSoldTickets": 761,
+    "owner": {
+      "_id": "58f34fa04909c907004ac6d1",
+      "name": "Yeh James",
+      "profileImageUrl": "https://graph.facebook.com/10203430988371637/picture"
+    },
+    "preOrderedPrice": 1000,
+    "price": 2500,
+    "proposalDueTime": "2017-09-23T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "Python 資料分析＆機器學習入門",
+    "totalVideoLengthInSeconds": 26058,
+    "type": "COURSE",
+    "uniquename": "pydataml"
+  },
+  {
+    "_id": "598b01e6891876070047423a",
+    "assignment": "598b01e6891876070047423b",
+    "averageRating": 5,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "59c8f017cecf8d001e6873cd",
+      "url": "https://hahow.in/images/59c8f017cecf8d001e6873cd"
+    },
+    "incubateTime": "2017-08-21T04:00:20.279Z",
+    "isReject": false,
+    "metaDescription": "給程式初心者的實作課程，從無到有，學用MATLAB製作聲控遊戲！只要掌握這門課的內容，就能移植至任意平台實現。",
+    "numRating": 9,
+    "numSoldTickets": 58,
+    "owner": {
+      "_id": "585aa756dec3cf0700ec9d4c",
+      "name": "JarvusChen",
+      "profileImageUrl": "https://hahow.in/images/596ba658ede9500700e6a06c",
+      "username": "jarvuschen"
+    },
+    "preOrderedPrice": 1500,
+    "price": 2500,
+    "proposalDueTime": "2017-09-19T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "MATLAB 音訊處理入門 - 專屬語音助理",
+    "totalVideoLengthInSeconds": 28244,
+    "type": "COURSE",
+    "uniquename": "audio-processing"
+  },
+  {
+    "_id": "593a0a69d0472a0700f24243",
+    "assignment": "593a0a69d0472a0700f24244",
+    "averageRating": 0,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "5985dd39acc13707000766a1",
+      "url": "https://hahow.in/images/5985dd39acc13707000766a1"
+    },
+    "incubateTime": "2017-08-08T07:00:15.004Z",
+    "isReject": false,
+    "metaDescription": "學完程式，理解了判斷式、迴圈、函數、繼承⋯等等，並且開始慢慢上手，卻不知道怎麼更進一步，物件導向設計會是你在程式領域中 CP 值最高的一門藝術",
+    "numRating": 0,
+    "numSoldTickets": 226,
+    "owner": {
+      "_id": "59127a172fa2a607008bb718",
+      "name": "Gavin",
+      "profileImageUrl": "https://graph.facebook.com/1470449769674142/picture"
+    },
+    "preOrderedPrice": 500,
+    "price": 800,
+    "proposalDueTime": "2017-09-06T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "解碼程式思維－物件導向的靈魂",
+    "totalVideoLengthInSeconds": 20209,
+    "type": "COURSE",
+    "uniquename": "gavin-oop-soul"
+  },
+  {
+    "_id": "591c480a00f58c0700788178",
+    "assignment": "591c480a00f58c0700788179",
+    "averageRating": 4.79,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "592d0f452f29aa0700af8a14",
+      "url": "https://hahow.in/images/592d0f452f29aa0700af8a14"
+    },
+    "incubateTime": "2017-06-30T04:00:04.845Z",
+    "isReject": false,
+    "metaDescription": "課程會帶領各位進入 Python 的世界，從基本的應用，到邏輯性的思考，做出一個邏輯性的遊戲，讓你成為 Python 開發者！",
+    "numRating": 56,
+    "numSoldTickets": 418,
+    "owner": {
+      "_id": "591c2ef700f58c0700787fc0",
+      "name": "Louis Ho",
+      "profileImageUrl": "https://hahow.in/images/5ad88ab4570663001e8bd58c",
+      "username": "louisho"
+    },
+    "preOrderedPrice": 990,
+    "price": 1390,
+    "proposalDueTime": "2017-07-29T16:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "Python 入門到製作遊戲演算法",
+    "totalVideoLengthInSeconds": 19633,
+    "type": "COURSE",
+    "uniquename": "class1-python"
+  },
+  {
+    "_id": "58d8b4a427ea7d07006025f8",
+    "assignment": "58d8b4a427ea7d07006025f9",
+    "averageRating": 0,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "58d8eea727ea7d07006027f9",
+      "url": "https://hahow.in/images/58d8eea727ea7d07006027f9"
+    },
+    "incubateTime": "2017-06-14T04:00:32.629Z",
+    "isReject": false,
+    "metaDescription": "Ruby on Rails 是現今最有效率、開發最迅速的後端框架之一，這門課將會帶你從 0 到 1，透過實作演練，學會用 Rails 輕鬆開發網頁後端！",
+    "numRating": 0,
+    "numSoldTickets": 384,
+    "owner": {
+      "_id": "58d68a1827ea7d0700601af3",
+      "name": "Coding Alpaca",
+      "profileImageUrl": "https://hahow.in/images/5945f2e3d0472a0700f298d6",
+      "username": "codingalpaca"
+    },
+    "preOrderedPrice": 1400,
+    "price": 2480,
+    "proposalDueTime": "2017-07-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "後端全攻略，用 Rails 讓你的網頁活起來！",
+    "totalVideoLengthInSeconds": 50239,
+    "type": "COURSE",
+    "uniquename": "codingalpaca-rails"
+  },
+  {
+    "_id": "586fae97a8aae907000ce721",
+    "assignment": "586fae97a8aae907000ce722",
+    "averageRating": 0,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "59131a7f2fa2a607008bc8ca",
+      "url": "https://hahow.in/images/59131a7f2fa2a607008bc8ca"
+    },
+    "incubateTime": "2017-05-18T04:00:03.976Z",
+    "isReject": false,
+    "metaDescription": "深入淺出學習網頁動畫、特效與遊戲製作的原理，從零快速入門網頁、JS 與繪圖實戰範例，並學習使用 Vue.js 整合前端網頁。",
+    "numRating": 0,
+    "numSoldTickets": 1912,
+    "owner": {
+      "_id": "56189df7df7b3d0b005c6638",
+      "name": "吳哲宇",
+      "profileImageUrl": "https://hahow.in/images/59940a4d38c46c0700654afc",
+      "username": "majer"
+    },
+    "preOrderedPrice": 1600,
+    "price": 2000,
+    "proposalDueTime": "2017-06-17T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "動畫互動網頁特效入門（JS/CANVAS）",
+    "totalVideoLengthInSeconds": 124265,
+    "type": "COURSE",
+    "uniquename": "monoame-webdesign2"
+  },
+  {
+    "_id": "58d5c70c27ea7d070060160e",
+    "assignment": "58d5c70c27ea7d070060160f",
+    "averageRating": 4.94,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "58f318cc4909c907004ac575",
+      "url": "https://hahow.in/images/58f318cc4909c907004ac575"
+    },
+    "incubateTime": "2017-04-27T04:00:30.360Z",
+    "isReject": false,
+    "metaDescription": "多個講師帶大家從入門到掌握技能知識，能夠扎實學習基本技術，再到實戰運用，在從線上到線下的教學課程。",
+    "numRating": 18,
+    "numSoldTickets": 1484,
+    "owner": {
+      "_id": "56f0d9534e3ef90900b80ccd",
+      "name": "Syue Ming YU",
+      "profileImageUrl": "https://graph.facebook.com/974193032656840/picture",
+      "username": "louissyue"
+    },
+    "preOrderedPrice": 650,
+    "price": 2500,
+    "proposalDueTime": "2017-05-27T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "從入門到業界實戰 - UI / UX 前端網頁設計",
+    "totalVideoLengthInSeconds": 152983,
+    "type": "COURSE",
+    "uniquename": "ui-design"
+  },
+  {
+    "_id": "58cb3438da45810700e53507",
+    "assignment": "58cb3438da45810700e53508",
+    "averageRating": 5,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "58da1e786e5d500700c83e0e",
+      "url": "https://hahow.in/images/58da1e786e5d500700c83e0e"
+    },
+    "incubateTime": "2017-04-20T05:30:11.819Z",
+    "isReject": false,
+    "metaDescription": "講究數據的時代，用這堂課開啟你的資料科學自學之旅! 從0到1帶你上手R語言，人人都能成為用數據說話的資料科學人！",
+    "numRating": 4,
+    "numSoldTickets": 603,
+    "owner": {
+      "_id": "58c6aea9da45810700e5140b",
+      "name": "Wush Wu",
+      "profileImageUrl": "https://hahow.in/images/58dbd5b26e5d500700c84a43",
+      "username": "dsrwush"
+    },
+    "preOrderedPrice": 250,
+    "price": 500,
+    "proposalDueTime": "2017-05-20T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "開啟資料科學的學習大門 - R入門教學",
+    "totalVideoLengthInSeconds": 28189,
+    "type": "COURSE",
+    "uniquename": "r-hands-on"
+  },
+  {
+    "_id": "58bfdaab5c4e6507007cdeca",
+    "assignment": "58bfdaab5c4e6507007cdecb",
+    "averageRating": 0,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "58f4c4924909c907004ad198",
+      "url": "https://hahow.in/images/58f4c4924909c907004ad198"
+    },
+    "incubateTime": "2017-04-07T05:53:07.307Z",
+    "isReject": false,
+    "metaDescription": "「五分鐘 程式設計」系列－安卓手機APP進階課程，共15單元，涵蓋動畫、計時器、音樂播放、加速度、指南針、藍牙、語音識別、資料庫和照相機元件。",
+    "numRating": 0,
+    "numSoldTickets": 93,
+    "owner": {
+      "_id": "58650351f108e00800c2507f",
+      "name": "Lien  Ted",
+      "profileImageUrl": "https://hahow.in/images/586db31ea8aae907000cd174",
+      "username": "ted99tw"
+    },
+    "preOrderedPrice": 500,
+    "price": 1000,
+    "proposalDueTime": "2017-05-07T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "APP Inventor 2  進階實戰",
+    "totalVideoLengthInSeconds": 5134,
+    "type": "COURSE",
+    "uniquename": "appinv2adv"
+  },
+  {
+    "_id": "5892e48a5f188a07007f7013",
+    "assignment": "5892e48a5f188a07007f7014",
+    "averageRating": 4.5,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "58b76f915c4e6507007c934c",
+      "url": "https://hahow.in/images/58b76f915c4e6507007c934c"
+    },
+    "incubateTime": "2017-02-14T04:02:51.425Z",
+    "isReject": false,
+    "metaDescription": "Java程式語言是目前最多系統使用的程式語言，也是目前市場上最需要的人才之一，這堂課程將以實際開發系統來做為教學的目標，上完這個課程之後將具備基礎的系統開發能力，接續的解鎖課程將會讓同學更進階的瞭解業界開發的常用工具與設計系統架構。",
+    "numRating": 6,
+    "numSoldTickets": 213,
+    "owner": {
+      "_id": "56ef73344e3ef90900b8061c",
+      "name": "Ryan",
+      "profileImageUrl": "https://hahow.in/images/58b782c05c4e6507007c9406",
+      "username": "ryantw"
+    },
+    "preOrderedPrice": 1180,
+    "price": 1890,
+    "proposalDueTime": "2017-03-16T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "【Java 程式語言】從 0 到 1",
+    "totalVideoLengthInSeconds": 49976,
+    "type": "COURSE",
+    "uniquename": "java-codegym"
+  },
+  {
+    "_id": "585feadff108e00800c22596",
+    "assignment": "585feadff108e00800c22597",
+    "averageRating": 3.4,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "58bacc105c4e6507007cb4ce",
+      "url": "https://hahow.in/images/58bacc105c4e6507007cb4ce"
+    },
+    "incubateTime": "2017-02-14T04:02:46.015Z",
+    "isReject": false,
+    "metaDescription": "想接網站外包? 再也不是難事！\n不論你是將來有專題大魔王，或是想開工作室接案賺錢，又或是開網路商城自己當老闆！\n只要跟著DK老師全程走一遭，一道道難題被解開後，這些經歷將成為你成功背後最有力的後台！",
+    "numRating": 5,
+    "numSoldTickets": 211,
+    "owner": {
+      "_id": "5798ce53d0c303070041a686",
+      "name": "DKMonster",
+      "profileImageUrl": "https://hahow.in/images/58766cf158ab57070085bf68",
+      "username": "mylyfwy771"
+    },
+    "preOrderedPrice": 1200,
+    "price": 2000,
+    "proposalDueTime": "2017-03-16T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "攻城獅必學 - 從0到1打造購物網站",
+    "totalVideoLengthInSeconds": 122958,
+    "type": "COURSE",
+    "uniquename": "dkm-online-shop"
+  },
+  {
+    "_id": "58744feda8aae907000d06c0",
+    "assignment": "58744feda8aae907000d06c1",
+    "averageRating": 4.63,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "5abac5768a3b9a001e3a010f",
+      "url": "https://hahow.in/images/5abac5768a3b9a001e3a010f"
+    },
+    "incubateTime": "2017-02-09T05:45:14.673Z",
+    "isReject": false,
+    "metaDescription": "你想自動擷取網站上的資料嗎？你學了 Python 卻不知道該從什麼程式開始練習嗎？這堂課就是為你準備的！本課程會循序漸進地說明如何撰寫 Python 網頁爬蟲，從環境設定開始，涵蓋網頁解構、資料擷取與儲存，及多項實戰演練，讓你在學習過程中及對於學習成果都有滿滿的成就感。",
+    "numRating": 8,
+    "numSoldTickets": 653,
+    "owner": {
+      "_id": "58744a86a8aae907000d0684",
+      "name": "Jun-Wei Lin",
+      "profileImageUrl": "https://hahow.in/images/58744c3ca8aae907000d0697",
+      "username": "junwei"
+    },
+    "preOrderedPrice": 990,
+    "price": 1890,
+    "proposalDueTime": "2017-03-11T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "Python 網頁爬蟲入門實戰",
+    "totalVideoLengthInSeconds": 15290,
+    "type": "COURSE",
+    "uniquename": "python-web-crawler"
+  },
+  {
+    "_id": "58677d39f108e00800c25f36",
+    "assignment": "58677d39f108e00800c25f37",
+    "averageRating": 4,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "58677f12f108e00800c25f52",
+      "url": "https://hahow.in/images/58677f12f108e00800c25f52"
+    },
+    "incubateTime": "2017-02-08T04:39:31.175Z",
+    "isReject": false,
+    "metaDescription": "25單元，看影片就能掌握精髓，使用C語言經典教材，從零紮根程式設計。",
+    "numRating": 3,
+    "numSoldTickets": 228,
+    "owner": {
+      "_id": "58650351f108e00800c2507f",
+      "name": "Lien  Ted",
+      "profileImageUrl": "https://hahow.in/images/586db31ea8aae907000cd174",
+      "username": "ted99tw"
+    },
+    "preOrderedPrice": 500,
+    "price": 1000,
+    "proposalDueTime": "2017-03-10T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "C 語言入門特訓",
+    "totalVideoLengthInSeconds": 8445,
+    "type": "COURSE",
+    "uniquename": "clanguage"
+  },
+  {
+    "_id": "58001218da04300700fdee95",
+    "assignment": "58001218da04300700fdee96",
+    "averageRating": 4,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "5867790cf108e00800c25f19",
+      "url": "https://hahow.in/images/5867790cf108e00800c25f19"
+    },
+    "incubateTime": "2017-02-01T02:59:01.181Z",
+    "isReject": false,
+    "metaDescription": "Python 是世界上最受歡迎的程式語言之一，本課程將帶領學員入門 Python Web 開發實戰，打造屬於你自己的網路應用程式",
+    "numRating": 9,
+    "numSoldTickets": 699,
+    "owner": {
+      "_id": "57d20956ed63880700d9fa96",
+      "name": "kdchang",
+      "profileImageUrl": "https://lh3.googleusercontent.com/-VDtJNwtwL_c/AAAAAAAAAAI/AAAAAAAAABA/5S9r04vus38/photo.jpg",
+      "username": "kdchang"
+    },
+    "preOrderedPrice": 990,
+    "price": 1590,
+    "proposalDueTime": "2017-03-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "Python Web 程式設計入門實戰",
+    "totalVideoLengthInSeconds": 31398,
+    "type": "COURSE",
+    "uniquename": "python101"
+  },
+  {
+    "_id": "586a2519f108e00800c26e61",
+    "assignment": "586a2519f108e00800c26e62",
+    "averageRating": 0,
+    "categories": [
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "586d9c92f108e00800c28464",
+      "url": "https://hahow.in/images/586d9c92f108e00800c28464"
+    },
+    "incubateTime": "2017-01-18T07:00:16.546Z",
+    "isReject": false,
+    "metaDescription": "25個錄影教學單元，使用拼圖來建構程式，就算完全沒有接觸過程式，也能開發出有趣的Android APP。",
+    "numRating": 0,
+    "numSoldTickets": 205,
+    "owner": {
+      "_id": "58650351f108e00800c2507f",
+      "name": "Lien  Ted",
+      "profileImageUrl": "https://hahow.in/images/586db31ea8aae907000cd174",
+      "username": "ted99tw"
+    },
+    "preOrderedPrice": 500,
+    "price": 1000,
+    "proposalDueTime": "2017-02-17T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "App Inventor 2 入門特訓",
+    "totalVideoLengthInSeconds": 8484,
+    "type": "COURSE",
+    "uniquename": "appinventor2"
+  },
+  {
+    "_id": "582548cf5910c807008267b4",
+    "assignment": "582548cf5910c807008267b5",
+    "averageRating": 2.7,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "58254e5c5910c807008267d9",
+      "url": "https://hahow.in/images/58254e5c5910c807008267d9"
+    },
+    "incubateTime": "2016-12-27T04:00:03.844Z",
+    "isReject": false,
+    "metaDescription": "前幾堂課將會個別介紹 Node.js 核心模組之特性，並且講述相關 Node.js 框架，最後使用 Node.js 開發一個論壇類型網站，課程將會使用 React.js 作為前端Framework。\n\n課程後面幾堂課會提到有關Web cache方面、安全方面與Load balance等議題。\n\n最後會講解部署到 AWS 的 EC2 上，使用 Nginx 當Reverse proxy 並配置 HTTPS 等步驟。",
+    "numRating": 10,
+    "numSoldTickets": 197,
+    "owner": {
+      "_id": "582541e55910c80700826797",
+      "name": "yicheng",
+      "profileImageUrl": "https://graph.facebook.com/10207124794173538/picture"
+    },
+    "preOrderedPrice": 1680,
+    "price": 1980,
+    "proposalDueTime": "2017-01-26T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 40
+    },
+    "title": "Node.js 網站開發 with React.js",
+    "totalVideoLengthInSeconds": 21482,
+    "type": "COURSE",
+    "uniquename": "nodejs-lession"
+  },
+  {
+    "_id": "581c3a59cca880070070561b",
+    "assignment": "581c3a59cca880070070561c",
+    "averageRating": 4.63,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "58b941e65c4e6507007caa76",
+      "url": "https://hahow.in/images/58b941e65c4e6507007caa76"
+    },
+    "incubateTime": "2016-12-13T04:29:09.613Z",
+    "isReject": false,
+    "metaDescription": "運用免費的雲端架站服務，5分鐘讓您專屬的網站上線！\n　不需要任何程式基礎，只需滿滿熱情、鍵盤與滑鼠。　隨時更新自己的網站，無需等待。",
+    "numRating": 8,
+    "numSoldTickets": 236,
+    "owner": {
+      "_id": "5816e653cca88007007023da",
+      "name": "YH.Fang",
+      "profileImageUrl": "https://hahow.in/images/581ed846cca88007007064fb",
+      "username": "ysfang"
+    },
+    "preOrderedPrice": 99,
+    "price": 220,
+    "proposalDueTime": "2017-01-12T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "不到一小時就能學會的個人網站製作",
+    "totalVideoLengthInSeconds": 4814,
+    "type": "COURSE",
+    "uniquename": "web-design"
+  },
+  {
+    "_id": "57d60701ed63880700da234c",
+    "assignment": "57d60701ed63880700da234d",
+    "averageRating": 3.81,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "57d619eaed63880700da23c7",
+      "url": "https://hahow.in/images/57d619eaed63880700da23c7"
+    },
+    "incubateTime": "2016-09-28T04:03:05.936Z",
+    "isReject": false,
+    "metaDescription": "若說程式語言中最勵志的故事， JavaScript 絕對可以排到前幾名，從過去的跑龍套到現在獨挑大樑的角色，現在的 JavaScript 不僅是 Web 界最重要的明星，更可以開發手機 App、物聯網、VR/AR 應用程式。本課程將會帶領大家從零開始打好 JavaScript 程式設計基礎，由淺入深介紹 JavaScript 程式語言特性，最後帶領大家做出一個屬於自己的 Chrome 瀏覽器的外掛程式（Extension）。",
+    "numRating": 27,
+    "numSoldTickets": 1351,
+    "owner": {
+      "_id": "57d20956ed63880700d9fa96",
+      "name": "kdchang",
+      "profileImageUrl": "https://lh3.googleusercontent.com/-VDtJNwtwL_c/AAAAAAAAAAI/AAAAAAAAABA/5S9r04vus38/photo.jpg",
+      "username": "kdchang"
+    },
+    "preOrderedPrice": 990,
+    "price": 1980,
+    "proposalDueTime": "2016-10-28T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 100
+    },
+    "title": "JavaScript 程式設計新手村",
+    "totalVideoLengthInSeconds": 34469,
+    "type": "COURSE",
+    "uniquename": "javascript101"
+  },
+  {
+    "_id": "57be54b49ab508070039a857",
+    "assignment": "57be54b49ab508070039a858",
+    "averageRating": 4,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "58c532f2e207b607008f64c1",
+      "url": "https://hahow.in/images/58c532f2e207b607008f64c1"
+    },
+    "incubateTime": "2016-09-23T05:21:38.074Z",
+    "isReject": false,
+    "metaDescription": "這門課會從最一開始的環境設定，到簡單的語法與資料結構的教學，以及物件導向程式設計的概念, 並在最後搭配一個實務專題來讓同學們能夠學會Python的開發流程。\n希望同學們可以透過所學習到的東西，再加上自我學習的精神，開發出更有品質更棒的軟體。",
+    "numRating": 7,
+    "numSoldTickets": 481,
+    "owner": {
+      "_id": "57a5b725d0c303070041e6f4",
+      "name": "蔣汶宏",
+      "profileImageUrl": "https://hahow.in/images/57c5417561d9350700e6c41c",
+      "username": "bluesky32210"
+    },
+    "preOrderedPrice": 790,
+    "price": 999,
+    "proposalDueTime": "2016-10-23T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "初心者 － Python 入門",
+    "totalVideoLengthInSeconds": 18826,
+    "type": "COURSE",
+    "uniquename": "python-for-beginners"
+  },
+  {
+    "_id": "56a3ace74ec4c609007d3065",
+    "assignment": "56a3ace74ec4c609007d3066",
+    "averageRating": 0,
+    "categories": [
+      "55de81879d1fa51000f94766",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "587c38436ecf3a0700b762ef",
+      "url": "https://hahow.in/images/587c38436ecf3a0700b762ef"
+    },
+    "incubateTime": "2016-09-15T07:49:37.528Z",
+    "isReject": false,
+    "metaDescription": "當設計師說工程師太過務實，工程師說設計師天馬行空，有沒有一種方式能保持平衡又打破疆界？我們期許自己用設計思惟學習程式，用程式碼說設計語言，成為邏輯清晰的設計師，集大成的藝術家。",
+    "numRating": 0,
+    "numSoldTickets": 201,
+    "owner": {
+      "_id": "569cf0b74ec4c609007d231b",
+      "name": "MIX",
+      "profileImageUrl": "https://hahow.in/images/583fd8dfd821b10700a81d60",
+      "username": "mixyaz"
+    },
+    "preOrderedPrice": 700,
+    "price": 1200,
+    "proposalDueTime": "2016-10-15T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "Processing - 讓程式碼說設計語言",
+    "totalVideoLengthInSeconds": 26264,
+    "type": "COURSE",
+    "uniquename": "processing"
+  },
+  {
+    "_id": "5799954ad0c303070041a975",
+    "assignment": "5799954ad0c303070041a976",
+    "averageRating": 2.8,
+    "categories": [
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "57999febd0c303070041a9ac",
+      "url": "https://hahow.in/images/57999febd0c303070041a9ac"
+    },
+    "incubateTime": "2016-08-15T03:58:15.000Z",
+    "isReject": false,
+    "metaDescription": "此課程能帶你進入 CSS 的魔法世界，透過黑魔法 Sass 帶領你快速地打造網頁樣式，並且讓你無須再害怕 CSS3，透過 Compass 的幫助，能加快打造各種 CSS3 的樣式，只需透過一個標籤就能達到效果，心動了嗎？我們在六又四分之三月台相見，一起搭上前往霍格喵茲的列車吧！",
+    "numRating": 5,
+    "numSoldTickets": 185,
+    "owner": {
+      "_id": "5798ce53d0c303070041a686",
+      "name": "DKMonster",
+      "profileImageUrl": "https://hahow.in/images/58766cf158ab57070085bf68",
+      "username": "mylyfwy771"
+    },
+    "preOrderedPrice": 690,
+    "price": 1200,
+    "proposalDueTime": "2016-09-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "Sass － 讓 CSS 變得更簡單有趣",
+    "totalVideoLengthInSeconds": 14915,
+    "type": "COURSE",
+    "uniquename": "dkm-sass-met-compass"
+  },
+  {
+    "_id": "57591fc5cb768f0900cdac55",
+    "assignment": "57591fc5cb768f0900cdac56",
+    "averageRating": 4,
+    "categories": [
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "575920b4cb768f0900cdac65",
+      "url": "https://hahow.in/images/575920b4cb768f0900cdac65"
+    },
+    "incubateTime": "2016-08-04T05:55:48.000Z",
+    "isReject": false,
+    "metaDescription": "利用開源、強大的流程圖式資料科學軟體 Orange3 來簡單介紹資料科學的各個步驟及流程；通過對於基礎流程的掌握，能夠持續進階到更高等的 Orange3 元件使用、或通過撰寫 Python 程式碼自訂符合需求的元件。",
+    "numRating": 4,
+    "numSoldTickets": 183,
+    "owner": {
+      "_id": "573c56d9fad4ef0a006ba731",
+      "name": "吳昱甫",
+      "profileImageUrl": "https://graph.facebook.com/1099707950052009/picture",
+      "username": "yfwu"
+    },
+    "preOrderedPrice": 150,
+    "price": 250,
+    "proposalDueTime": "2016-09-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "資料科學：Orange3 入門",
+    "totalVideoLengthInSeconds": 3293,
+    "type": "COURSE",
+    "uniquename": "orange3basic"
+  },
+  {
+    "_id": "577085d3c2917a110075ece3",
+    "assignment": "577085d3c2917a110075ece4",
+    "averageRating": 2.67,
+    "categories": [
+      "55de81929d1fa51000f94769",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "5770997ec2917a110075ed52",
+      "url": "https://hahow.in/images/5770997ec2917a110075ed52"
+    },
+    "incubateTime": "2016-07-28T10:15:57.000Z",
+    "isReject": false,
+    "metaDescription": "一個網站的組成包含了皮（前端）與肉（後端）。除了好看的前端之外，後端也一樣重要！本課程中，將使用全球最通用的網頁後端語言：php，從最基礎的語法開始，一步一步深入學習如何打造一個可以與網友進行互動的網站。無論是留言板、部落格、購物車、會員系統，以後通通自己動手！",
+    "numRating": 3,
+    "numSoldTickets": 181,
+    "owner": {
+      "_id": "57413a2dfad4ef0a006bd0dd",
+      "name": "楊淳佑",
+      "profileImageUrl": "https://hahow.in/images/579f77e5d0c303070041cb45",
+      "username": "chunyou0830"
+    },
+    "preOrderedPrice": 1000,
+    "price": 1800,
+    "proposalDueTime": "2016-08-27T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "PHP+MySQL 動態網頁入門",
+    "totalVideoLengthInSeconds": 8219,
+    "type": "COURSE",
+    "uniquename": "php-dynamic-web"
+  },
+  {
+    "_id": "576984b9f1399b0900e26272",
+    "assignment": "576984b9f1399b0900e26273",
+    "averageRating": 5,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "576e99bec2917a110075dd87",
+      "url": "https://hahow.in/images/576e99bec2917a110075dd87"
+    },
+    "incubateTime": "2016-07-15T04:18:36.000Z",
+    "isReject": false,
+    "metaDescription": "想要創業，沒有一個功能俱全的 Prototype 怎麼行呢？本課程幫助你從零開始架設一個動態網站，涵蓋 PHP 後端語言及 Laravel 框架、MySQL 資料庫、Ubuntu 主機管理及域名註冊等。Make your site live today!",
+    "numRating": 5,
+    "numSoldTickets": 459,
+    "owner": {
+      "_id": "56a083354ec4c609007d2964",
+      "name": "Jeremy Yen",
+      "profileImageUrl": "https://lh4.googleusercontent.com/-49yHMcUteV4/AAAAAAAAAAI/AAAAAAAAL5c/ZRpyju9vHCg/photo.jpg",
+      "username": "jeremyyen"
+    },
+    "preOrderedPrice": 990,
+    "price": 1980,
+    "proposalDueTime": "2016-08-14T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "創業必備：Laravel 5.3 後端網站入門",
+    "totalVideoLengthInSeconds": 18529,
+    "type": "COURSE",
+    "uniquename": "laravel-backend"
+  },
+  {
+    "_id": "57430175fad4ef0a006be4cf",
+    "assignment": "57430175fad4ef0a006be4d0",
+    "averageRating": 4.38,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769"
+    ],
+    "coverImage": {
+      "_id": "575039f4206cd60900c52f6f",
+      "url": "https://hahow.in/images/575039f4206cd60900c52f6f"
+    },
+    "incubateTime": "2016-06-20T04:04:39.000Z",
+    "isReject": false,
+    "metaDescription": "在這個全民寫程式的年代，學程式真的是這麼簡單的一件事嗎？這堂課專注在基本知識教學，讓你擁有更紮實的基礎，才能事半功倍、勢如破竹！",
+    "numRating": 13,
+    "numSoldTickets": 608,
+    "owner": {
+      "_id": "573b41c3fad4ef0a006b9d83",
+      "name": "Hu Li",
+      "profileImageUrl": "https://hahow.in/images/57de36eed5766a0700c6c80d"
+    },
+    "preOrderedPrice": 990,
+    "price": 1890,
+    "proposalDueTime": "2016-07-20T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "初心者的計概與 coding 火球術",
+    "totalVideoLengthInSeconds": 17568,
+    "type": "COURSE",
+    "uniquename": "cs-the-easy-way"
+  },
+  {
+    "_id": "573dc95efad4ef0a006bb79e",
+    "assignment": "573dc95efad4ef0a006bb79f",
+    "averageRating": 4.89,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769",
+      "55de81a49d1fa51000f9476e"
+    ],
+    "coverImage": {
+      "_id": "57419777fad4ef0a006bd4ab",
+      "url": "https://hahow.in/images/57419777fad4ef0a006bd4ab"
+    },
+    "incubateTime": "2016-06-07T03:29:32.000Z",
+    "isReject": false,
+    "metaDescription": "在這堂課裡面，我將教大家在90分鐘內，從無到有做出一個屬於自己的簡單3D小遊戲。\n在這堂課裡面，你會學會，怎麼建立遊戲場景，遊戲引擎是怎麼運行程式，調整物理效果，還有UI使用者介面，最後再教大家怎麼把做好的遊戲輸出到PC / MAC / 或者是網頁上。",
+    "numRating": 9,
+    "numSoldTickets": 249,
+    "owner": {
+      "_id": "573d7d33fad4ef0a006bb3fc",
+      "name": "謝岱穎Steven",
+      "profileImageUrl": "https://hahow.in/images/59b7800dcd5792070055e7a9",
+      "username": "karta1297963"
+    },
+    "preOrderedPrice": 300,
+    "price": 399,
+    "proposalDueTime": "2016-07-07T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "Unity3D 遊戲開發 in 90Mins - [入門篇]",
+    "totalVideoLengthInSeconds": 4826,
+    "type": "COURSE",
+    "uniquename": "easyunity1"
+  },
+  {
+    "_id": "56189df9df7b3d0b005c6639",
+    "assignment": "56189df9df7b3d0b005c663a",
+    "averageRating": 4.99,
+    "categories": [
+      "55de81ac9d1fa51000f94770",
+      "55de81929d1fa51000f94769",
+      "55de81879d1fa51000f94766"
+    ],
+    "coverImage": {
+      "_id": "574fab4f206cd60900c52a67",
+      "url": "https://hahow.in/images/574fab4f206cd60900c52a67"
+    },
+    "incubateTime": "2016-06-03T04:50:49.000Z",
+    "isReject": false,
+    "metaDescription": "想用 illustrator 的思維學習網頁前端程式設計嗎？看完一般網路教學總是離想像有一大段距離嗎？",
+    "numRating": 97,
+    "numSoldTickets": 3984,
+    "owner": {
+      "_id": "56189df7df7b3d0b005c6638",
+      "name": "吳哲宇",
+      "profileImageUrl": "https://hahow.in/images/59940a4d38c46c0700654afc",
+      "username": "majer"
+    },
+    "preOrderedPrice": 1000,
+    "price": 2000,
+    "proposalDueTime": "2016-07-03T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 50
+    },
+    "title": "動畫互動網頁程式入門 (HTML/CSS/JS)",
+    "totalVideoLengthInSeconds": 105429,
+    "type": "COURSE",
+    "uniquename": "monoame-webdesign1"
+  },
+  {
+    "_id": "56c1e3b3e91d590900234105",
+    "assignment": "56c1e3b3e91d590900234106",
+    "averageRating": 3.46,
+    "categories": [
+      "55de81969d1fa51000f9476a",
+      "55de81ac9d1fa51000f94770"
+    ],
+    "coverImage": {
+      "_id": "56c1e647e91d590900234114",
+      "url": "https://hahow.in/images/56c1e647e91d590900234114"
+    },
+    "incubateTime": "2016-05-05T06:38:01.000Z",
+    "isReject": false,
+    "metaDescription": "想到寫網頁，你的印象還停留在 Dreamweaver 還是 Frontpage 嗎？你的觀念可能已經落伍囉！本課程將帶領大家認識網頁前後端技術（包括 HTML、CSS、JavaScript、jQuery、Bootstrap 等相關技術）及網站運作原理。學完本課程，你也可能成為下一個 Facebook 創辦人！",
+    "numRating": 13,
+    "numSoldTickets": 637,
+    "owner": {
+      "_id": "56a083354ec4c609007d2964",
+      "name": "Jeremy Yen",
+      "profileImageUrl": "https://lh4.googleusercontent.com/-49yHMcUteV4/AAAAAAAAAAI/AAAAAAAAL5c/ZRpyju9vHCg/photo.jpg",
+      "username": "jeremyyen"
+    },
+    "preOrderedPrice": 300,
+    "price": 500,
+    "proposalDueTime": "2016-06-04T00:00:00.000Z",
+    "reviewing": false,
+    "status": "PUBLISHED",
+    "successCriteria": {
+      "numSoldTickets": 30
+    },
+    "title": "創業必備：前端網頁設計入門",
+    "totalVideoLengthInSeconds": 14740,
+    "type": "COURSE",
+    "uniquename": "frontend-web-starter"
+  }
+]
